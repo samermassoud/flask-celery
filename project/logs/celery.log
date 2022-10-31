@@ -105,3 +105,20 @@
 [2022-10-28 12:22:03,866: INFO/ForkPoolWorker-3] Task create_task[0709db61-8a15-4bb9-a05c-932b4648cfca] succeeded in 30.031978999999865s: True
 [2022-10-28 12:22:13,596: INFO/ForkPoolWorker-1] Task create_task[3a4879b8-58d9-4f4f-9f90-d3aa8fae8e6d] succeeded in 20.001622937999855s: True
 [2022-10-28 12:22:24,285: INFO/ForkPoolWorker-2] Task create_task[fe7efde7-f056-4243-bedf-11d7bc92e231] succeeded in 30.033490529999654s: True
+[2022-10-31 10:38:32,727: INFO/MainProcess] Connected to redis://redis:6379/0
+[2022-10-31 10:38:32,731: INFO/MainProcess] mingle: searching for neighbors
+[2022-10-31 10:38:33,743: INFO/MainProcess] mingle: all alone
+[2022-10-31 10:38:33,767: INFO/MainProcess] celery@5a6167fa8104 ready.
+[2022-10-31 10:38:37,599: INFO/MainProcess] Events of group {task} enabled by remote.
+[2022-10-31 10:38:42,641: INFO/MainProcess] Task create_task[06438bd7-1bcd-42fc-9d6e-ccea46a5b34c] received
+[2022-10-31 10:38:52,665: INFO/ForkPoolWorker-1] Task create_task[06438bd7-1bcd-42fc-9d6e-ccea46a5b34c] succeeded in 10.01649638300296s: True
+[2022-10-31 10:39:56,784: INFO/MainProcess] Task create_task[a81686bb-d925-4d3f-b9eb-7c7598824977] received
+[2022-10-31 10:39:57,345: INFO/MainProcess] Task create_task[4ef05924-5639-4e56-b417-96e4b720ef70] received
+[2022-10-31 10:39:57,857: INFO/MainProcess] Task create_task[af3bdb34-253f-466c-b5d7-f034d234f556] received
+[2022-10-31 10:39:58,357: INFO/MainProcess] Task create_task[e2296e53-a113-4c89-9cc9-e1b896e3bdb7] received
+[2022-10-31 10:39:58,878: INFO/MainProcess] Task create_task[0877162e-1bfb-4360-9d79-aa5b6cd4ac45] received
+[2022-10-31 10:40:07,885: INFO/ForkPoolWorker-2] Task create_task[af3bdb34-253f-466c-b5d7-f034d234f556] succeeded in 10.021655720000126s: True
+[2022-10-31 10:40:16,811: INFO/ForkPoolWorker-1] Task create_task[a81686bb-d925-4d3f-b9eb-7c7598824977] succeeded in 20.021568570002273s: True
+[2022-10-31 10:40:18,396: INFO/ForkPoolWorker-4] Task create_task[e2296e53-a113-4c89-9cc9-e1b896e3bdb7] succeeded in 20.03136625800107s: True
+[2022-10-31 10:40:27,393: INFO/ForkPoolWorker-3] Task create_task[4ef05924-5639-4e56-b417-96e4b720ef70] succeeded in 30.040476545000274s: True
+[2022-10-31 10:40:37,929: INFO/ForkPoolWorker-2] Task create_task[0877162e-1bfb-4360-9d79-aa5b6cd4ac45] succeeded in 30.03590892599823s: True
